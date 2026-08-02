@@ -101,6 +101,3 @@ If running in Google Colab, expose the Streamlit app using ngrok after starting 
 
 You can run the application locally or in Google Colab using Streamlit and ngrok.
 
-## License
-
-This project is licensed under the MIT License.
