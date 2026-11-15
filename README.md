@@ -100,4 +100,5 @@ If running in Google Colab, expose the Streamlit app using ngrok after starting 
 ## Demo
 
 You can run the application locally or in Google Colab using Streamlit and ngrok.
+https://elixir-composite-waviness.ngrok-free.dev/
 
