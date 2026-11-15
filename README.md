@@ -98,6 +98,11 @@ If running in Google Colab, expose the Streamlit app using ngrok after starting 
 * Authentication for multiple users
 
 ## Demo
+<img width="959" height="491" alt="Screenshot 2026-11-16 032845" src="https://github.com/user-attachments/assets/80b2579a-cd67-4577-9296-2e447face093" />
+<img width="956" height="494" alt="Screenshot 2026-11-16 031542" src="https://github.com/user-attachments/assets/218e595d-ca81-4d47-882c-a1d5e30bd569" />
+
+<img width="959" height="487" alt="Screenshot 2026-11-16 032332" src="https://github.com/user-attachments/assets/13719083-562d-4502-8ec4-801ca81059a0" />
+
 
 You can run the application locally or in Google Colab using Streamlit and ngrok.
 https://elixir-composite-waviness.ngrok-free.dev/
