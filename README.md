@@ -16,3 +16,15 @@ streamlit run app.py
 3. Embed chunks and index them with FAISS
 4. Retrieve the top 4 chunks for a question
 5. Send them as context to a Groq-hosted LLM to generate the answer
+
+## Demo 
+
+<img width="959" height="497" alt="image" src="https://github.com/user-attachments/assets/1f1bc90d-8029-4654-a902-f3e69c60cb93" />
+
+<img width="959" height="494" alt="image" src="https://github.com/user-attachments/assets/c849264b-ddc6-46a0-8134-ff93e7814380" />
+
+Streamlit Link - https://rag-based-pdf-chatbot-6wzt4bt7zhjxu3bmerqnqy.streamlit.app/
+
+
+
+
