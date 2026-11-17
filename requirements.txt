@@ -1,7 +1,0 @@
-streamlit
-pymupdf
-sentence-transformers
-faiss-cpu
-groq
-pyngrok
-numpy
